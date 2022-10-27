@@ -21,8 +21,8 @@ Save the data to the file
 
 ## CODE:
 ```
-Name : R Hemapriya
-Register Number : 212221230036
+Name : D R Vinuthna
+Register Number : 212221230017
 Feature Transformation - Data_to_Transform.csv
 ```
 
